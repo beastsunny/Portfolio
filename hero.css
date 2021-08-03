@@ -1,0 +1,96 @@
+body {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+:root {
+    --primary-color: #251e3e;
+    --gray: #9CA3AF;
+    --lightgrey: #E5E7EB;
+}
+
+.link {
+    color: white;
+}
+
+.container {
+    padding: 1rem 1rem;
+    background-color: var(--primary-color);
+    color: white;
+    border-bottom-left-radius: 1rem;
+}
+
+.developer {
+    font-size: bold;
+}
+
+.list-non-bullet {
+    list-style-type: none;
+}
+
+.list-item-inline {
+    display: inline;
+    padding: 0rem 1rem;
+}
+
+.navigation .link-active {
+    font-weight: bold;
+}
+
+.heading {
+    padding: 2rem 0rem;
+}
+
+.image {
+    padding: 2rem;
+    padding-top: 5rem;
+}
+
+.image .image-pic {
+    max-width: 80%;
+    width: 350px;
+    margin: auto;
+    display: block;
+}
+
+.image .image-heading {
+    color: var(--gray);
+    text-align: center;
+    padding-top: 1rem;
+    S
+}
+
+.image .image-heading .image-inverted {
+    color: var(--primary-color);
+}
+
+.section-grey {
+    background-color: var(--lightgrey);
+    padding: 2.5rem 0rem;
+}
+
+.section-white {
+    background-color: white;
+    padding: 2.5rem 0rem;
+}
+
+.container-center {
+    text-align: center;
+}
+
+.primary-link {
+    background-color: var(--primary-color);
+    padding: 0.5rem 0.5rem;
+    border-radius: 1rem;
+    color: white;
+}
+
+.footer {
+    background-color: var(--primary-color);
+    border-top-right-radius: 1rem;
+    padding: 1rem;
+}
+
+.footer .footer-header {
+    font-weight: bold;
+    color: white;
+}
