@@ -47,6 +47,17 @@ span {
     color: var(--primary-color);
 }
 
+.blg-section {
+    padding: 8rem;
+    margin: 2rem;
+}
+
+.link {
+    background-color: var(--primary-color);
+    padding: 0.5rem;
+    border-radius: 00.5rem;
+}
+
 footer {
     text-align: center;
     padding: 2rem 1rem;
