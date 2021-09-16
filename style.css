@@ -7,3 +7,50 @@ body {
     --gray: #9CA3AF;
     --lightgrey: #E5E7EB;
 }
+
+.link {
+    color: white;
+    text-decoration: none;
+}
+
+.container {
+    padding: 1rem 1rem;
+    background-color: var(--primary-color);
+    color: white;
+    border-bottom-left-radius: 1rem;
+    font-size: large;
+}
+
+.developer {
+    font-size: x-large;
+}
+
+.list-non-bullet {
+    list-style-type: none;
+}
+
+.list-item-inline {
+    display: inline;
+}
+
+.navigation .link-active {
+    font-weight: bold;
+}
+
+.image {
+    padding: 2rem;
+    padding-top: 5rem;
+}
+
+.image .image-pic {
+    max-width: 80%;
+    width: 400px;
+    margin: auto;
+    display: block;
+}
+
+.image .image-heading {
+    color: var(--gray);
+    text-align: center;
+    padding-top: 1rem;
+}
