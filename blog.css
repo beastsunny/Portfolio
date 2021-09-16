@@ -37,6 +37,16 @@ body {
     font-weight: bold;
 }
 
+h1 {
+    color: gray;
+    font-size: xx-large;
+    text-align: center;
+}
+
+span {
+    color: var(--primary-color);
+}
+
 footer {
     text-align: center;
     padding: 2rem 1rem;
