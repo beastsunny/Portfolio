@@ -1,0 +1,9 @@
+body {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+:root {
+    --primary-color: #251e3e;
+    --gray: #9CA3AF;
+    --lightgrey: #E5E7EB;
+}
