@@ -54,3 +54,18 @@ body {
     text-align: center;
     padding-top: 1rem;
 }
+
+.section-grey {
+    background-color: var(--lightgrey);
+    padding: 2.5rem 0.5rem;
+}
+
+.section-white {
+    background-color: white;
+    padding: 2.5rem 0rem;
+}
+
+.container-center {
+    text-align: center;
+    padding: 1rem;
+}
