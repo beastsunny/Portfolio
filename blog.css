@@ -36,3 +36,38 @@ body {
 .navigation .link-active {
     font-weight: bold;
 }
+
+footer {
+    text-align: center;
+    padding: 2rem 1rem;
+    width: 100%;
+    background-color: var(--primary-color);
+}
+
+.footer-header {
+    font-weight: bold;
+    font-size: x-large;
+    margin-bottom: 1rem;
+    color: white;
+}
+
+ul {
+    padding-top: 1rem;
+    margin: 0.4rem;
+    padding-inline-start: 0px;
+}
+
+li {
+    display: inline;
+    padding: 0rem 1rem;
+}
+
+a {
+    color: grey;
+    font-size: 2rem;
+    margin: 0.3rem;
+}
+
+a:hover {
+    color: white;
+}
