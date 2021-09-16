@@ -57,12 +57,12 @@ body {
 
 .section-grey {
     background-color: var(--lightgrey);
-    padding: 2.5rem 0.5rem;
+    padding: 5rem 0.5rem;
 }
 
 .section-white {
     background-color: white;
-    padding: 2.5rem 0rem;
+    padding: 5rem 0rem;
 }
 
 .container-center {
