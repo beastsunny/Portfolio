@@ -57,20 +57,13 @@ body {
 
 .section-grey {
     background-color: var(--lightgrey);
-    padding: 5rem 0.5rem;
 }
 
 .section-white {
     background-color: white;
-    padding: 5rem 0rem;
 }
 
-.container-center {
-    text-align: center;
-    padding: 1rem;
-}
-
-footer {
+.sec footer {
     text-align: center;
     padding: 2rem 1rem;
     width: 100%;
