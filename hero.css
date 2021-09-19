@@ -6,6 +6,7 @@ body {
     --primary-color: #251e3e;
     --gray: #9CA3AF;
     --lightgrey: #E5E7EB;
+    --btn-color: #892CDC;
 }
 
 .link {
@@ -61,7 +62,7 @@ body {
 }
 
 .image .image-heading .image-inverted {
-    color: var(--primary-color);
+    color: var(--btn-color);
 }
 
 .section-grey {
@@ -80,7 +81,7 @@ body {
 }
 
 .primary-link {
-    background-color: var(--primary-color);
+    background-color: var(--btn-color);
     padding: 0.5rem 0.5rem;
     border-radius: 1rem;
     color: white;

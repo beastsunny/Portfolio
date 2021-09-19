@@ -84,8 +84,9 @@ small.neogprojectmark {
 
 footer {
     text-align: center;
-    padding: 2rem 1rem;
-    width: 100%;
+    padding: 1rem 1rem;
+    border-top-left-radius: 1rem;
+    width: 97.8%;
     background-color: var(--primary-color);
 }
 
@@ -115,6 +116,10 @@ a {
 
 a:hover {
     color: black;
+}
+
+footer a:hover {
+    color: var(--lightgrey);
 }
 
 .primary-link {
