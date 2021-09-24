@@ -71,6 +71,16 @@
         border-radius: 00.6rem;
     }
     
+    .blg {
+        display: flex;
+        flex-direction: column;
+    }
+    
+    img {
+        height: 35%;
+        width: 35%;
+    }
+    
     footer {
         text-align: center;
         padding: 2rem 1rem;
