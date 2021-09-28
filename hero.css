@@ -118,11 +118,15 @@ li {
 }
 
 a {
-    color: var(--lightgrey);
+    color: gray;
     font-size: 2rem;
     margin: 0.3rem;
 }
 
 a:hover {
+    color: black;
+}
+
+footer a:hover {
     color: lightgray;
 }
