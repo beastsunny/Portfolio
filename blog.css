@@ -50,8 +50,8 @@
     }
     
     .blg-section {
-        padding: 8rem;
-        margin: 2rem;
+        padding: 4rem;
+        margin: 1rem;
     }
     
     .primary-link {
@@ -72,8 +72,9 @@
     }
     
     .blg {
-        display: flex;
-        flex-direction: column;
+        text-align: center;
+        padding-right: 7rem;
+        padding-left: 7rem;
     }
     
     img {
