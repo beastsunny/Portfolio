@@ -71,6 +71,10 @@
         border-radius: 00.6rem;
     }
     
+    .link:hover {
+        color: lightcyan;
+    }
+    
     .blg {
         text-align: center;
         padding-right: 7rem;
